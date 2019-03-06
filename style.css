@@ -1,0 +1,30 @@
+.grid {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+button {
+  height: 200px;
+  width: 200px;
+  border-color: black;
+  border-width: 1;
+  text-size: 3em
+}
+body {
+  align-items: center;
+  
+  padding: 100px;
+}
+
+.yellow {
+  background-color: rgb(247, 160, 0)
+}
+
+.purple {
+  background-color: rgb(255, 175, 255);
+}
+
+h1 {
+  text-align: center;
+}
